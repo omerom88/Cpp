@@ -1,0 +1,7 @@
+I decided to design my program with implements of function in heder files. After talking with another students 
+i understand that this isn't the best design. So i chenged every .h file to .cpp but because i build it with 
+heder file, some class couldn't see some function (like "threat"), or i got multiply deffinitions of those 
+functions.I know that if i had more time, i would figure it out, but i don't. So i hope its not a BIG mistake, 
+and i know that in the next program iwill build it right from the start...
+all the best,
+omer rom    
